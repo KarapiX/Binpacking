@@ -1,0 +1,1144 @@
+{
+    "wagon 1": {
+        "objet 1": {
+            "longueur": 10.0,
+            "largeur": 1.0,
+            "hauteur": 0.5,
+            "designation": "Tubes acier",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 9.0,
+            "largeur": 2.0,
+            "hauteur": 0.7,
+            "designation": "Tubes acier",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5
+            }
+        },
+        "objet 3": {
+            "longueur": 7.5,
+            "largeur": 1.2,
+            "hauteur": 0.4,
+            "designation": "Tubes acier",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.2
+            }
+        },
+        "objet 4": {
+            "longueur": 1.0,
+            "largeur": 1.0,
+            "hauteur": 1.0,
+            "designation": "Acide chlorhydrique",
+            "position": {
+                "x": 0.0,
+                "y": 1.2,
+                "z": 1.2
+            }
+        },
+        "objet 5": {
+            "longueur": 2.0,
+            "largeur": 2.0,
+            "hauteur": 1.0,
+            "designation": "Godet pelleteuse",
+            "position": {
+                "x": 7.5,
+                "y": 0.0,
+                "z": 1.2
+            }
+        },
+        "objet 6": {
+            "longueur": 11.0,
+            "largeur": 1.0,
+            "hauteur": 0.2,
+            "designation": "Rails ",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2.2
+            }
+        },
+        "objet 7": {
+            "longueur": 3.0,
+            "largeur": 2.0,
+            "hauteur": 0.6,
+            "designation": "Tubes PVC",
+            "position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 1.6
+            }
+        },
+        "objet 8": {
+            "longueur": 3.0,
+            "largeur": 2.1,
+            "hauteur": 0.6,
+            "designation": "Verre",
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 1.6
+            }
+        },
+        "objet 9": {
+            "longueur": 4.0,
+            "largeur": 1.0,
+            "hauteur": 0.5,
+            "designation": "Ciment",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            }
+        },
+        "objet 10": {
+            "longueur": 1.0,
+            "largeur": 1.8,
+            "hauteur": 1.0,
+            "designation": "Ardoises",
+            "position": {
+                "x": 9.5,
+                "y": 0.0,
+                "z": 0.5
+            }
+        },
+        "objet 11": {
+            "longueur": 2.0,
+            "largeur": 1.1,
+            "hauteur": 0.6,
+            "designation": "Aluminium",
+            "position": {
+                "x": 9.5,
+                "y": 0.0,
+                "z": 1.5
+            }
+        },
+        "objet 12": {
+            "longueur": 5.0,
+            "largeur": 0.6,
+            "hauteur": 0.5,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 4.0,
+                "y": 1.0,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 2": {
+        "objet 1": {
+            "longueur": 3.0,
+            "largeur": 1.3,
+            "hauteur": 1.8,
+            "designation": "Echaffaudage",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 5.0,
+            "largeur": 0.8,
+            "hauteur": 1.0,
+            "designation": "Bois vrac",
+            "position": {
+                "x": 0.0,
+                "y": 1.3,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 6.0,
+            "largeur": 1.9,
+            "hauteur": 1.0,
+            "designation": "Troncs chênes",
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 1.0
+            }
+        },
+        "objet 4": {
+            "longueur": 5.0,
+            "largeur": 0.8,
+            "hauteur": 0.8,
+            "designation": "Zinc",
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 5": {
+            "longueur": 3.0,
+            "largeur": 1.6,
+            "hauteur": 0.9,
+            "designation": "Verre brun vrac",
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 6": {
+            "longueur": 8.0,
+            "largeur": 0.5,
+            "hauteur": 0.5,
+            "designation": "Treuil",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        "objet 7": {
+            "longueur": 2.2,
+            "largeur": 1.6,
+            "hauteur": 1.1,
+            "designation": "Chanvre isolation",
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 0.9
+            }
+        },
+        "objet 8": {
+            "longueur": 3.0,
+            "largeur": 0.6,
+            "hauteur": 1.2,
+            "designation": "Aluminium",
+            "position": {
+                "x": 0.0,
+                "y": 1.3,
+                "z": 1.0
+            }
+        },
+        "objet 9": {
+            "longueur": 6.0,
+            "largeur": 0.5,
+            "hauteur": 0.7,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 5.0,
+                "y": 1.6,
+                "z": 0.0
+            }
+        },
+        "objet 10": {
+            "longueur": 4.0,
+            "largeur": 1.5,
+            "hauteur": 0.5,
+            "designation": "Pneus ",
+            "position": {
+                "x": 3.0,
+                "y": 0.5,
+                "z": 2.0
+            }
+        }
+    },
+    "wagon 3": {
+        "objet 1": {
+            "longueur": 7.0,
+            "largeur": 1.6,
+            "hauteur": 1.5,
+            "designation": "Troncs hêtres",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 4.0,
+            "largeur": 1.6,
+            "hauteur": 0.6,
+            "designation": "Papier",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.5
+            }
+        },
+        "objet 3": {
+            "longueur": 3.0,
+            "largeur": 1.6,
+            "hauteur": 1.9,
+            "designation": "Pièces métalliques",
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 7.0,
+            "largeur": 0.6,
+            "hauteur": 1.5,
+            "designation": "Tôles",
+            "position": {
+                "x": 0.0,
+                "y": 1.6,
+                "z": 0.0
+            }
+        },
+        "objet 5": {
+            "longueur": 3.0,
+            "largeur": 0.5,
+            "hauteur": 2.2,
+            "designation": "Tôles",
+            "position": {
+                "x": 7.0,
+                "y": 1.6,
+                "z": 0.0
+            }
+        },
+        "objet 6": {
+            "longueur": 5.0,
+            "largeur": 1.3,
+            "hauteur": 0.6,
+            "designation": "Aluminium",
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 1.9
+            }
+        }
+    },
+    "wagon 4": {
+        "objet 1": {
+            "longueur": 5.0,
+            "largeur": 1.1,
+            "hauteur": 2.3,
+            "designation": "Pompe à chaleur",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 6.0,
+            "largeur": 2.0,
+            "hauteur": 1.4,
+            "designation": "Cuivre",
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 5.0,
+            "largeur": 1.1,
+            "hauteur": 2.4,
+            "designation": "Briques rouges",
+            "position": {
+                "x": 0.0,
+                "y": 1.1,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 5.0,
+            "largeur": 2.2,
+            "hauteur": 0.7,
+            "designation": "Lin ",
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 1.4
+            }
+        }
+    },
+    "wagon 5": {
+        "objet 1": {
+            "longueur": 7.0,
+            "largeur": 1.0,
+            "hauteur": 1.3,
+            "designation": "Carton",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 9.0,
+            "largeur": 0.9,
+            "hauteur": 2.2,
+            "designation": "Verre blanc vrac",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 7.0,
+            "largeur": 0.9,
+            "hauteur": 1.2,
+            "designation": "Pièces métalliques",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.3
+            }
+        },
+        "objet 4": {
+            "longueur": 2.0,
+            "largeur": 1.2,
+            "hauteur": 2.3,
+            "designation": "Tuiles",
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 5": {
+            "longueur": 2.0,
+            "largeur": 0.8,
+            "hauteur": 1.1,
+            "designation": "Lithium",
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 6": {
+            "longueur": 2.0,
+            "largeur": 0.7,
+            "hauteur": 1.1,
+            "designation": "Pneus ",
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 1.1
+            }
+        }
+    },
+    "wagon 6": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.6,
+            "hauteur": 1.4,
+            "designation": "Pièces métalliques",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 4.0,
+            "largeur": 0.7,
+            "hauteur": 1.2,
+            "designation": "Vitraux",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 9.0,
+            "largeur": 1.7,
+            "hauteur": 1.0,
+            "designation": "Tôles",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.4
+            }
+        },
+        "objet 4": {
+            "longueur": 4.2,
+            "largeur": 1.5,
+            "hauteur": 0.8,
+            "designation": "Moteur élecrique",
+            "position": {
+                "x": 6.0,
+                "y": 0.7,
+                "z": 0.0
+            }
+        },
+        "objet 5": {
+            "longueur": 5.6,
+            "largeur": 0.5,
+            "hauteur": 1.4,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 0.0,
+                "y": 1.6,
+                "z": 0.0
+            }
+        },
+        "objet 6": {
+            "longueur": 2.0,
+            "largeur": 1.2,
+            "hauteur": 1.5,
+            "designation": "Lithium",
+            "position": {
+                "x": 9.0,
+                "y": 0.7,
+                "z": 0.8
+            }
+        }
+    },
+    "wagon 7": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.2,
+            "hauteur": 2.5,
+            "designation": "Carrelage",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 3.0,
+            "largeur": 2.2,
+            "hauteur": 2.2,
+            "designation": "Tôles",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 4.0,
+            "largeur": 0.7,
+            "hauteur": 1.9,
+            "designation": "Mobilier urbain",
+            "position": {
+                "x": 0.0,
+                "y": 1.2,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 2.0,
+            "largeur": 2.0,
+            "hauteur": 2.3,
+            "designation": "Aluminium",
+            "position": {
+                "x": 9.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 8": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.9,
+            "hauteur": 1.6,
+            "designation": "Tôles",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 5.0,
+            "largeur": 1.7,
+            "hauteur": 1.2,
+            "designation": "Ouate de cellusose",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 6.0,
+            "largeur": 1.0,
+            "hauteur": 0.8,
+            "designation": "Aluminium",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.6
+            }
+        },
+        "objet 4": {
+            "longueur": 4.0,
+            "largeur": 1.0,
+            "hauteur": 1.1,
+            "designation": "Aluminium",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 1.2
+            }
+        },
+        "objet 5": {
+            "longueur": 5.0,
+            "largeur": 0.8,
+            "hauteur": 0.7,
+            "designation": "Poutre ",
+            "position": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 1.6
+            }
+        },
+        "objet 6": {
+            "longueur": 3.0,
+            "largeur": 0.5,
+            "hauteur": 1.9,
+            "designation": "Poutre ",
+            "position": {
+                "x": 6.0,
+                "y": 1.7,
+                "z": 0.0
+            }
+        },
+        "objet 7": {
+            "longueur": 6.0,
+            "largeur": 0.7,
+            "hauteur": 0.7,
+            "designation": "Poutre ",
+            "position": {
+                "x": 5.0,
+                "y": 1.0,
+                "z": 1.6
+            }
+        }
+    },
+    "wagon 9": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.3,
+            "hauteur": 2.5,
+            "designation": "Textiles à recycler",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 7.0,
+            "largeur": 0.9,
+            "hauteur": 1.3,
+            "designation": "Treuil",
+            "position": {
+                "x": 0.0,
+                "y": 1.3,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 3.7,
+            "largeur": 0.9,
+            "hauteur": 1.4,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 4.0,
+            "largeur": 0.8,
+            "hauteur": 2.1,
+            "designation": "Aluminium",
+            "position": {
+                "x": 7.0,
+                "y": 0.9,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 10": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.3,
+            "hauteur": 1.2,
+            "designation": "Aluminium",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 6.0,
+            "largeur": 1.1,
+            "hauteur": 1.0,
+            "designation": "Quincaillerie",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.2
+            }
+        },
+        "objet 3": {
+            "longueur": 8.0,
+            "largeur": 0.9,
+            "hauteur": 1.7,
+            "designation": "Acier ",
+            "position": {
+                "x": 0.0,
+                "y": 1.3,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 4.9,
+            "largeur": 0.9,
+            "hauteur": 2.5,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 5": {
+            "longueur": 3.0,
+            "largeur": 1.3,
+            "hauteur": 1.7,
+            "designation": "Pneus ",
+            "position": {
+                "x": 8.0,
+                "y": 0.9,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 11": {
+        "objet 1": {
+            "longueur": 7.0,
+            "largeur": 1.4,
+            "hauteur": 2.5,
+            "designation": "Batteries automobile",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 3.3,
+            "largeur": 1.8,
+            "hauteur": 2.3,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 7.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 5.0,
+            "largeur": 0.6,
+            "hauteur": 1.8,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 0.0,
+                "y": 1.4,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 12": {
+        "objet 1": {
+            "longueur": 8.0,
+            "largeur": 0.9,
+            "hauteur": 1.8,
+            "designation": "Laine de bois",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 8.7,
+            "largeur": 1.3,
+            "hauteur": 1.3,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 0.0,
+                "y": 0.9,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 2.6,
+            "largeur": 1.6,
+            "hauteur": 2.3,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 8.7,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 5.0,
+            "largeur": 1.5,
+            "hauteur": 0.7,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.8
+            }
+        },
+        "objet 5": {
+            "longueur": 3.0,
+            "largeur": 1.8,
+            "hauteur": 0.7,
+            "designation": "Pneus ",
+            "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 1.8
+            }
+        }
+    },
+    "wagon 13": {
+        "objet 1": {
+            "longueur": 6.1,
+            "largeur": 2.2,
+            "hauteur": 2.3,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 2.9,
+            "largeur": 1.6,
+            "hauteur": 2.0,
+            "designation": "Semi conducteurs",
+            "position": {
+                "x": 6.1,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 5.0,
+            "largeur": 2.2,
+            "hauteur": 0.5,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 6.1,
+                "y": 0.0,
+                "z": 2.0
+            }
+        },
+        "objet 4": {
+            "longueur": 3.0,
+            "largeur": 0.6,
+            "hauteur": 1.9,
+            "designation": "Pneus ",
+            "position": {
+                "x": 6.1,
+                "y": 1.6,
+                "z": 0.0
+            }
+        },
+        "objet 5": {
+            "longueur": 2.0,
+            "largeur": 2.1,
+            "hauteur": 1.8,
+            "designation": "Pneus ",
+            "position": {
+                "x": 9.1,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 14": {
+        "objet 1": {
+            "longueur": 4.0,
+            "largeur": 2.1,
+            "hauteur": 2.1,
+            "designation": "Aluminium",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 6.0,
+            "largeur": 1.5,
+            "hauteur": 1.9,
+            "designation": "Aluminium",
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 4.0,
+            "largeur": 0.7,
+            "hauteur": 1.4,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 4.0,
+                "y": 1.5,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 5.0,
+            "largeur": 1.8,
+            "hauteur": 0.5,
+            "designation": "Pneus ",
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 1.9
+            }
+        }
+    },
+    "wagon 15": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.8,
+            "hauteur": 1.1,
+            "designation": "Aluminium",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 6.0,
+            "largeur": 1.9,
+            "hauteur": 0.9,
+            "designation": "Lithium",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.1
+            }
+        },
+        "objet 3": {
+            "longueur": 3.0,
+            "largeur": 2.0,
+            "hauteur": 2.2,
+            "designation": "Lithium",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 16": {
+        "objet 1": {
+            "longueur": 4.0,
+            "largeur": 1.5,
+            "hauteur": 0.9,
+            "designation": "Lithium",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 4.0,
+            "largeur": 2.1,
+            "hauteur": 2.5,
+            "designation": "Lithium",
+            "position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 3.0,
+            "largeur": 1.5,
+            "hauteur": 1.8,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 8.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 3.0,
+            "largeur": 1.7,
+            "hauteur": 1.1,
+            "designation": "Poutre ",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9
+            }
+        }
+    },
+    "wagon 17": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.3,
+            "hauteur": 2.0,
+            "designation": "Lithium",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 4.0,
+            "largeur": 1.4,
+            "hauteur": 2.0,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 18": {
+        "objet 1": {
+            "longueur": 3.0,
+            "largeur": 1.4,
+            "hauteur": 2.0,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 3.0,
+            "largeur": 2.0,
+            "hauteur": 2.3,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 5.0,
+            "largeur": 1.4,
+            "hauteur": 0.7,
+            "designation": "Poutre ",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 4": {
+            "longueur": 4.0,
+            "largeur": 1.5,
+            "hauteur": 1.7,
+            "designation": "Pneus ",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.7
+            }
+        }
+    },
+    "wagon 19": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.2,
+            "hauteur": 1.2,
+            "designation": "Contreplaqué",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 5.0,
+            "largeur": 1.6,
+            "hauteur": 2.1,
+            "designation": "Poutre ",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 3": {
+            "longueur": 6.0,
+            "largeur": 1.2,
+            "hauteur": 1.3,
+            "designation": "Pneus ",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.2
+            }
+        }
+    },
+    "wagon 20": {
+        "objet 1": {
+            "longueur": 6.0,
+            "largeur": 1.2,
+            "hauteur": 2.0,
+            "designation": "Poutre ",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "objet 2": {
+            "longueur": 3.0,
+            "largeur": 1.5,
+            "hauteur": 1.9,
+            "designation": "Pneus ",
+            "position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    },
+    "wagon 21": {
+        "objet 1": {
+            "longueur": 4.0,
+            "largeur": 1.7,
+            "hauteur": 1.4,
+            "designation": "Pneus ",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    }
+}

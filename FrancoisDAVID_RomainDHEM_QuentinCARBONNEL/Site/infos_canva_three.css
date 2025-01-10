@@ -1,0 +1,323 @@
+
+.containerinfos {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2em 0 2em 0;
+}
+
+.heading-primary {
+    font-size: 3em;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.accordion {
+    margin: 50px;
+}
+
+.accordion dt,
+.accordion dd {
+    padding: 10px;
+    border: 1px solid black;
+    border-bottom: 0;
+
+}
+
+.accordion dt a {
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.accordion dd {
+    border-top: 0;
+    font-size: 12px;
+    display: none; /* Initial state is hidden */
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+
+.accordion dd:last-of-type {
+    border-top: 1px solid white;
+    position: relative;
+    top: -1px;
+}
+/* Capitalize the first letter of the accordion link */
+.accordion dt a::first-letter {
+    text-transform: uppercase;
+}
+
+/* Capitalize the first letter of the strong element in the description */
+.strongfirstletter::first-letter {
+    text-transform: uppercase;
+}
+
+/*###############################################*/
+.scrollable-container {
+    display: flex;
+    overflow-x: auto;
+    width: 95%;
+    margin: 0 auto;
+    padding: 7rem 0 2rem;
+    background-color: rgba(240, 240, 240, 0);
+    border: 1px solid rgba(204, 204, 204, 0);
+    white-space: nowrap;
+}
+
+.wagon-container {
+    position: relative;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.wagon {
+    position: relative;
+    width: 579px; /* Based on the ratio 11.583:2.56 */
+    height: 128px; /* Based on the ratio 11.583:2.56 */
+    flex: 0 0 auto; /* Prevent shrinking */
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border: 2px solid #333;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.flatbed {
+    position: absolute;
+    bottom: -10px; /* Lower the flatbed */
+    width: 100%;
+    height: 10px; /* Thinner flatbed */
+    background-color: #555; /* Darker color */
+    border-top: 2px solid #333;
+}
+
+.wheel {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #333;
+    bottom: -30px; /* Adjusted to be below the flatbed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wheel::before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #666;
+}
+
+.connector {
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    background-color: #333;
+    bottom: 5px;
+    left: -20px; /* Adjusted for better positioning */
+}
+
+.connector::after {
+    content: '';
+    width: 20px;
+    height: 2px;
+    background-color: #333;
+    position: absolute;
+    bottom: 5px;
+    left: calc(100% - 20px); /* Dynamic positioning */
+}
+
+.block {
+    height: 100%; /* Full height */
+    border: 1px solid #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    color: white;
+    padding: 5px;
+    margin: 0;
+    opacity: 0.8; /* Transparent color */
+}
+
+.wagon-number {
+    position: absolute;
+    top: -3rem;
+    left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+
+.wagon-info {
+    position: absolute;
+    top: -5rem;
+    right: 10px;
+    font-size: 0.8em;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+
+.title-dimension {
+    font-size: 3rem; /* Taille de la police */
+    font-weight: bold; /* Texte en gras */
+    color: #2c3e50; /* Couleur du texte */
+    text-align: center; /* Centrer le texte */
+    margin-top: 20px; /* Espace au-dessus du titre */
+    margin-bottom: 20px; /* Espace en dessous du titre */
+    text-transform: uppercase; /* Mettre le texte en majuscules */
+    letter-spacing: 2px; /* Espacement entre les lettres */
+}
+
+.subtitle-offline {
+    font-size: 2rem; /* Taille de la police */
+    color: #7f8c8d; /* Couleur du texte */
+    text-align: left; /* Aligner le texte à gauche */
+    margin-left: 20px; /* Espace à gauche */
+    margin-top: 3rem;
+}
+
+/*########################################################################*/
+.scroll-container-2d {
+    display: flex;
+    overflow-x: auto;
+    width: 95%;
+    margin: 0 auto;
+    padding: 7rem 0 2rem;
+    background-color: rgba(240, 240, 240, 0);
+    border: 1px solid rgba(204, 204, 204, 0);
+    white-space: nowrap;
+}
+
+.wagon-2d {
+    position: relative;
+    display: inline-block;
+    margin: 0 15px;
+    background-color: #eee;
+    border: 2px solid #444;
+    width: 579px; /* Reduce width by half while maintaining ratio */
+    height: 114.7px; /* Reduce height by half while maintaining ratio */
+    flex-shrink: 0; /* Prevent shrinking */
+    flex-basis: 579px; /* Ensure the wagon maintains its width */
+}
+
+.connector-2d {
+    width: 10px; /* Adjust connector width */
+    height: 2px;
+    background-color: #444;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 56.35px; /* Center align */
+}
+
+.block-2d {
+    position: absolute;
+    border: 1px solid #444;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 5px;
+    box-sizing: border-box;
+    opacity: 0.8; /* Transparent color */
+}
+
+.dimension-title-2d {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.subtitle-2d {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.wagon-details-2d {
+    position: absolute;
+    top: -5rem;
+    right: 10px;
+    font-size: 0.8em;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+
+.wagon-number-2d {
+    position: absolute;
+    top: -4rem;
+    left: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    width: auto;
+}
+
+.accordion2 {
+    margin: 50px;
+}
+
+.accordion2 dt,
+.accordion2 dd {
+    padding: 10px;
+    border: 1px solid black;
+    border-bottom: 0;
+
+}
+
+.accordion2 dt a {
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.accordion2 dd {
+    border-top: 0;
+    font-size: 12px;
+    display: none; /* Initial state is hidden */
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+
+.accordion2 dd:last-of-type {
+    border-top: 1px solid white;
+    position: relative;
+    top: -1px;
+}
+/* Capitalize the first letter of the accordion2 link */
+.accordion2 dt a::first-letter {
+    text-transform: uppercase;
+}
+.container-large{
+    max-width: none !important;
+}
+.padding-global{
+    width: 100% !important;
+}

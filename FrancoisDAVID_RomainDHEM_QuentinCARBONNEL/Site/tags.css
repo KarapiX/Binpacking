@@ -1,0 +1,109 @@
+.flex-container {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1rem;
+}
+
+.separator {
+    width: 1px;
+    background-color: #ccc;
+    margin: 0 1rem;
+}
+
+.tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    flex: 1;
+    min-height: 50px;
+}
+
+.tag-button {
+    position: relative;
+    display: inline-flex;
+    height: 2.5rem;
+    overflow: hidden;
+    border-radius: 9999px;
+    padding: 1px;
+    cursor: move;
+    transition: transform 0.2s ease;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Ajout de l'ombre */
+}
+
+.tag-button.dragging {
+    opacity: 0.5;
+}
+
+.tag-button .border-animation {
+    position: absolute;
+    inset: -1000%;
+    background: conic-gradient(from 90deg at 50% 50%, #ffffff 0%, #161791 50%, #ffffff 100%);
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.tag-button-inner {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    border-radius: 9999px;
+    background-color: #f1f1f1;
+    padding: 0 1rem;
+    color: #000000;
+    font-size: 0.875rem;
+    font-weight: 500;
+    position: relative;
+}
+
+.tag-button-inner span {
+    margin-right: 0.5rem;
+}
+
+.remove-tag {
+    position: absolute;
+    right: 0.1rem;
+    cursor: pointer;
+    margin-bottom: 0.15rem;
+    font-size: 1.25rem; /* Agrandit le bouton de suppression */
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-left: 2rem;
+    flex: 1;
+}
+
+.form-container input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+}
+
+.button-container {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.button-container button {
+    flex: 1;
+}
+
+/* Media Query pour les écrans plus petits */
+@media (max-width: 600px) {
+    .button-container {
+        flex-direction: column;
+    }
+}
